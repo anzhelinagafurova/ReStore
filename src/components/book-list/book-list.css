@@ -1,0 +1,9 @@
+.booklist-item{
+    list-style: none;
+    margin: 0px 10px 10px 0px;
+}
+.booklist{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
